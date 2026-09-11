@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.5"
     },
-    "CreationDate": "2026-09-08T21:57:35-05:00"
+    "CreationDate": "2026-09-10T21:55:36-05:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -32,47 +32,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "mesh-F_Cu.gbr",
+      "Path": "meshnode-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mesh-B_Cu.gbr",
+      "Path": "meshnode-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mesh-F_Paste.gbr",
+      "Path": "meshnode-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mesh-B_Paste.gbr",
+      "Path": "meshnode-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mesh-F_Silkscreen.gbr",
+      "Path": "meshnode-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mesh-B_Silkscreen.gbr",
+      "Path": "meshnode-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "mesh-F_Mask.gbr",
+      "Path": "meshnode-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "mesh-B_Mask.gbr",
+      "Path": "meshnode-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "mesh-Edge_Cuts.gbr",
+      "Path": "meshnode-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

@@ -488,7 +488,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mesh.kicad_pro",
+    "filename": "meshnode.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -526,8 +526,8 @@
       "netlist": "",
       "plot": "Gerber/",
       "specctra_dsn": "",
-      "step": "mesh.step",
-      "vrml": "mesh.wrl"
+      "step": "meshnode.step",
+      "vrml": "meshnode.wrl"
     },
     "page_layout_descr_file": ""
   },
@@ -656,7 +656,7 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "mesh.kicad_sch",
+        "filename": "meshnode.kicad_sch",
         "name": "mesh",
         "uuid": "bb9569cd-f6ff-4a1f-8fe1-760fee394e23"
       }

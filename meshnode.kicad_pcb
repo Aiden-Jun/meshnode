@@ -337,7 +337,7 @@
 		)
 		(path "/1baf0ce8-c514-46bb-8bfa-70b102ebacef")
 		(sheetname "/")
-		(sheetfile "mesh.kicad_sch")
+		(sheetfile "meshnode.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1017,7 +1017,7 @@
 		)
 		(path "/b3d1eccc-dbc8-4655-9d83-d816786f38cb")
 		(sheetname "/")
-		(sheetfile "mesh.kicad_sch")
+		(sheetfile "meshnode.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1324,7 +1324,7 @@
 		)
 		(path "/a7a424a3-e4a9-4ef7-bc6c-5af561ef3ddb")
 		(sheetname "/")
-		(sheetfile "mesh.kicad_sch")
+		(sheetfile "meshnode.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1617,7 +1617,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/a89a2068-66e8-4376-b8e0-4fea05f39ca4")
 		(sheetname "/")
-		(sheetfile "mesh.kicad_sch")
+		(sheetfile "meshnode.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2073,7 +2073,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/1649829f-e56f-4bec-83fa-777cada53f52")
 		(sheetname "/")
-		(sheetfile "mesh.kicad_sch")
+		(sheetfile "meshnode.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2186,7 +2186,7 @@
 		(property ki_fp_filters "Connector*:*_1x??_*")
 		(path "/381c71c8-143a-4007-a2f2-5e13eda92352")
 		(sheetname "/")
-		(sheetfile "mesh.kicad_sch")
+		(sheetfile "meshnode.kicad_sch")
 		(units
 			(unit
 				(name "A")
