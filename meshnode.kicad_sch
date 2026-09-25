@@ -8,7 +8,7 @@
 		(title "A Lora Radio Node")
 		(date "2026-09-02")
 		(rev "1")
-		(company "Not evil company")
+		(company "M32")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
