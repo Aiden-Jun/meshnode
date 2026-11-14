@@ -1,5 +1,7 @@
 # meshnode
 
+![Finished build v1](images/device_prototype.jpg)
+
 A screenless Meshtastic node built around a Seeed Studio XIAO nRF52840 and a Wio-SX1262 LoRa module.
 
 ## Hardware
